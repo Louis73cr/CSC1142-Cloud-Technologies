@@ -2112,12 +2112,12 @@
     "annee_fin_service": "1992",
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
-    "vitesse_exploitation": "~ 3,5 m/s",
+    "vitesse_exploitation": "3,5 m/s",
     "denivelee": "388 mètres",
     "longueur_developpee": "1611 mètres",
     "altitude_aval": "1431 mètres",
     "altitude_amont": "1819 mètres",
-    "temps_trajet": "~ 7 min 40 sec",
+    "temps_trajet": "7 min 40 sec",
     "statut_complet": true
   },
   {
@@ -7218,8 +7218,8 @@
     "vitesse_exploitation": "3,3 m/s",
     "denivelee": "152 mètres",
     "longueur_developpee": "810 mètres",
-    "altitude_aval": "~ 1970 mètres",
-    "altitude_amont": "~ 2122 mètres",
+    "altitude_aval": "1970 mètres",
+    "altitude_amont": "2122 mètres",
     "temps_trajet": "4 min 6 sec",
     "statut_complet": true
   },
@@ -7276,8 +7276,8 @@
     "vitesse_exploitation": "1,2 m/s",
     "denivelee": "32 mètres",
     "longueur_developpee": "165 mètres",
-    "altitude_aval": "~ 1830 mètres",
-    "altitude_amont": "~ 1862 mètres",
+    "altitude_aval": "1830 mètres",
+    "altitude_amont": "1862 mètres",
     "temps_trajet": "2 min 18 sec",
     "statut_complet": true
   },
@@ -10646,11 +10646,11 @@
     "annee_fin_service": "2011",
     "saison_exploitation": "Hiver",
     "capacite": "4 personnes",
-    "vitesse_exploitation": "~ 3 m/s",
-    "denivelee": "~ 650 mètres",
-    "longueur_developpee": "~ 1950 mètres",
-    "altitude_aval": "~ 1825 mètres",
-    "altitude_amont": "~ 2475 mètres",
+    "vitesse_exploitation": "3 m/s",
+    "denivelee": "650 mètres",
+    "longueur_developpee": "1950 mètres",
+    "altitude_aval": "1825 mètres",
+    "altitude_amont": "2475 mètres",
     "temps_trajet": "12 min 06 sec (13 min 09 sec*)",
     "puissance_developpee": "367 kW",
     "statut_complet": true
@@ -15659,7 +15659,7 @@
     "longueur_developpee": "3020 mètres",
     "altitude_aval": "1059 mètres",
     "altitude_amont": "1822 mètres",
-    "temps_trajet": "~ 9 min 30 sec",
+    "temps_trajet": "9 min 30 sec",
     "statut_complet": true
   },
   {
@@ -20412,10 +20412,10 @@
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
     "vitesse_exploitation": "3,5 m/s",
-    "denivelee": "~ 65 mètres",
+    "denivelee": "65 mètres",
     "longueur_developpee": "860 mètres",
-    "altitude_aval": "~ 1810 mètres",
-    "altitude_amont": "~ 2110 mètres",
+    "altitude_aval": "1810 mètres",
+    "altitude_amont": "2110 mètres",
     "temps_trajet": "4 min 06 sec",
     "statut_complet": true
   },
@@ -34529,8 +34529,8 @@
     },
     "saison_exploitation": "Hiver",
     "capacite": "2 personnes",
-    "altitude_amont": "~ 1169 m*",
-    "denivelee": "~ 20 m*",
+    "altitude_amont": "1169 m*",
+    "denivelee": "20 m*",
     "pente_moyenne": "12 %*",
     "type_tension": "Contrepoids",
     "sens_montee": "Gauche",
@@ -34587,8 +34587,8 @@
     "annee_construction": "1969",
     "saison_exploitation": "Hiver",
     "capacite": "2 personnes",
-    "altitude_amont": "~ 1167 m*",
-    "denivelee": "~ 25 m*",
+    "altitude_amont": "1167 m*",
+    "denivelee": "25 m*",
     "pente_moyenne": "15 %*",
     "type_tension": "Hydraulique",
     "sens_montee": "Gauche",
@@ -48849,7 +48849,7 @@
     "longueur_developpee": "1081 mètres",
     "altitude_aval": "1272 mètres",
     "altitude_amont": "1288 mètres",
-    "temps_trajet": "~ 4 min",
+    "temps_trajet": "4 min",
     "statut_complet": true
   },
   {
@@ -54658,12 +54658,12 @@
       }
     },
     "saison_exploitation": "Hiver",
-    "vitesse_exploitation": "~ 3 m/s",
+    "vitesse_exploitation": "3 m/s",
     "denivelee": "124 mètres",
     "longueur_developpee": "692 mètres",
     "altitude_aval": "1431 mètres",
     "altitude_amont": "1555 mètres",
-    "temps_trajet": "~ 3 min 50 sec",
+    "temps_trajet": "3 min 50 sec",
     "statut_complet": false,
     "donnees_manquantes": [
       "année_construction"
@@ -55652,10 +55652,10 @@
     "capacite": "1 personne",
     "vitesse_exploitation": "2,5 m/s",
     "denivelee": "42 mètres",
-    "longueur_developpee": "~ 500 mètres",
+    "longueur_developpee": "500 mètres",
     "altitude_aval": "1834 mètres",
     "altitude_amont": "1876 mètres",
-    "temps_trajet": "~ 3 min",
+    "temps_trajet": "3 min",
     "statut_complet": true
   },
   {
@@ -55706,10 +55706,10 @@
     "capacite": "1 personne",
     "vitesse_exploitation": "2,9 m/s",
     "denivelee": "113 mètres",
-    "longueur_developpee": "~ 520 mètres",
+    "longueur_developpee": "520 mètres",
     "altitude_aval": "1968 mètres",
     "altitude_amont": "2081 mètres",
-    "temps_trajet": "~ 3 min",
+    "temps_trajet": "3 min",
     "statut_complet": true
   },
   {
@@ -55735,10 +55735,10 @@
     "capacite": "1 personne",
     "vitesse_exploitation": "3,62 m/s",
     "denivelee": "410 mètres",
-    "longueur_developpee": "~ 1075 mètres",
+    "longueur_developpee": "1075 mètres",
     "altitude_aval": "2001 mètres",
     "altitude_amont": "2411 mètres",
-    "temps_trajet": "~ 5 min",
+    "temps_trajet": "5 min",
     "statut_complet": true
   },
   {
@@ -72465,7 +72465,7 @@
     "longueur_developpee": "1715 mètres",
     "altitude_aval": "1863 mètres",
     "altitude_amont": "2534 mètres",
-    "temps_trajet": "~ 5 min 34 sec",
+    "temps_trajet": "5 min 34 sec",
     "statut_complet": true
   },
   {
@@ -78175,11 +78175,11 @@
     "annee_fin_service": "2007",
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
-    "vitesse_exploitation": "~ 3 m/s",
+    "vitesse_exploitation": "3 m/s",
     "longueur_developpee": "203 mètres",
     "altitude_aval": "1423 mètres",
     "altitude_amont": "1472 mètres",
-    "temps_trajet": "~ 1 min 8 sec",
+    "temps_trajet": "1 min 8 sec",
     "statut_complet": true
   },
   {
@@ -78344,7 +78344,7 @@
     "annee_construction": "1980",
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
-    "vitesse_exploitation": "~ 1,5 m/s",
+    "vitesse_exploitation": "1,5 m/s",
     "denivelee": "9 mètres",
     "longueur_developpee": "85 mètres",
     "altitude_aval": "1406 mètres",
@@ -78373,12 +78373,12 @@
     "annee_fin_service": "2007",
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
-    "vitesse_exploitation": "~ 1,5 m/s",
+    "vitesse_exploitation": "1,5 m/s",
     "denivelee": "12 mètres",
     "longueur_developpee": "136 mètres",
     "altitude_aval": "1406 mètres",
     "altitude_amont": "1418 mètres",
-    "temps_trajet": "~ 1 min 31 sec",
+    "temps_trajet": "1 min 31 sec",
     "statut_complet": true
   },
   {
@@ -78430,12 +78430,12 @@
     "annee_construction": "1963",
     "saison_exploitation": "Hiver",
     "capacite": "1 personne",
-    "vitesse_exploitation": "~ 3 m/s",
+    "vitesse_exploitation": "3 m/s",
     "denivelee": "182 mètres",
     "longueur_developpee": "744 mètres",
     "altitude_aval": "1418 mètres",
     "altitude_amont": "1600 mètres",
-    "temps_trajet": "~ 4 min 8 sec",
+    "temps_trajet": "4 min 8 sec",
     "statut_complet": true
   },
   {
